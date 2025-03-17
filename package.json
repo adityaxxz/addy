@@ -1,0 +1,12 @@
+{
+  "name": "0xaddy",
+  "version": "1.0.0",
+  "description": "A stylish terminal-themed website with a hacker aesthetic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
