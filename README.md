@@ -1,4 +1,4 @@
-# 0xAddy Website
+# 0xAddy Website - https://0xaddy.xyz
 
 A stylish terminal-themed website with a hacker aesthetic.
 
